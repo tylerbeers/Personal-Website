@@ -24,13 +24,18 @@ footer {
 	opacity: 0.6;
 	background-color: black;
 	background-image: none;
-	position: absolute;
+	position: relative;
 }
 #heroImg {
 	width: 100%
 }
-#heroHead {
+.hero-text {
 	position: absolute;
-	margin-top: 25%;
+	margin-top: 10%;
+	margin-left: 50%;
 	align-content: center;
+	color: grey;
+	background-color: none;
+	text-align: center;
 }
+
